@@ -20,3 +20,13 @@ Dia 3:
 - Adición de nuevas columnas para cálculo de exceso de velocidad y con 5% margen
 - Eliminación de filas sin infracción
 - Guardado del dataset limpio
+
+Dia 4:
+
+- Creación de clase 'FineAnalyzer'.
+- Utilizamos esa clase para analizar diferentes tipos de consultas
+- Consulta de Top 5 patentes mas multadas
+- Consulta de Top 5 horarios con mas multas
+- Consulta de Exceso promedio de velocidad (con margen de 5%)
+- Consulta de Exceso real promedio de velocidad
+- Consulta de cantidad de multas por ubicación
