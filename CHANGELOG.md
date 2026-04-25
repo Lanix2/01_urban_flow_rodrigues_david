@@ -38,3 +38,8 @@ Dia 5:
 - Vista y exportación sobre gráfico barras horizontal de infracciones por mes.
 - Vista y exportación sobre gráfico de líneas de excesos de velocidad agrupados por la hora `00:00`.
 - Vista y exportación sobre gráfico de líneas de excesos de velocidad agrupados por la fecha `1931-01-01`.
+
+Dia 6:
+
+- Calculo de porcentaje de infracciones en la fecha `1932-01-01`
+- Calculo de porcentaje de infracciones en la hora `00:00`
