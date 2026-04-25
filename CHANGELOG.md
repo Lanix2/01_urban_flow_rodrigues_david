@@ -30,3 +30,11 @@ Dia 4:
 - Consulta de Exceso promedio de velocidad (con margen de 5%)
 - Consulta de Exceso real promedio de velocidad
 - Consulta de cantidad de multas por ubicación
+
+Dia 5:
+
+- Vista y exportación sobre gráfico en barras top 10 Patentes Reincidentes.
+- Vista y exportación sobre gráfico torta con porcentaje de infracciones por hora.
+- Vista y exportación sobre gráfico barras horizontal de infracciones por mes.
+- Vista y exportación sobre gráfico de líneas de excesos de velocidad agrupados por la hora `00:00`.
+- Vista y exportación sobre gráfico de líneas de excesos de velocidad agrupados por la fecha `1931-01-01`.
