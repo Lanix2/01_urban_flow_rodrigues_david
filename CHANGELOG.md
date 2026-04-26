@@ -43,3 +43,9 @@ Dia 6:
 
 - Calculo de porcentaje de infracciones en la fecha `1932-01-01`
 - Calculo de porcentaje de infracciones en la hora `00:00`
+
+Dia 7:
+
+- Creación de archivo `Readme.md` principal con los objetivos
+- Creación de archivo `Data/Readme.md` con la conclusión
+- Redacción de conclusión final sobre los datos del dataset
