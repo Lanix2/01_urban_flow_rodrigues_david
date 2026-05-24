@@ -55,11 +55,6 @@ Dia 8:
 - Descarga del archivo zip con el dataset de imágenes vehiculares.
 - Extracción de las imágenes en el directorio data/raw/imgs.
 
-Dia 8:
-
-- Descarga del archivo zip con el dataset de imágenes vehiculares.
-- Extracción de las imágenes en el directorio data/raw/imgs.
-
 Dia 9:
 
 - Cálculo de resolución y área promedio para separar imágenes en grupos 'plates' y 'completes'.
