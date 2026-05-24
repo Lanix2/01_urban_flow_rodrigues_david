@@ -66,3 +66,9 @@ Dia 10:
 - Conversión a escala de grises de las imágenes originales.
 - Aplicación de suavizado (Gaussian Blur) sobre las imágenes en escala de grises.
 - Detección de bordes (filtro Canny) sobre las imágenes suavizadas.
+
+Dia 11:
+
+- Extracción de texto de las patentes utilizando EasyOCR.
+- Cruce de datos y validación de coincidencia posicional estricta (mayor al 80%) contra el dataset histórico.
+- Guardado del dataset procesado final speeding_fines_image.csv.
