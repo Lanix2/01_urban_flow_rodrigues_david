@@ -78,3 +78,8 @@ Dia 12:
 - Cálculo de cantidad de multas con y sin imágenes asociadas agrupadas por exceso de velocidad.
 - Cálculo de la cantidad de imágenes sin match en el dataset.
 - Cálculo de multas pendientes de pago (IMPAGA) y su relación con la evidencia visual.
+
+Dia 13:
+
+- Actualización del archivo Readme.md con el objetivo y contexto del Sprint 2.
+- Redacción de conclusión final sobre el impacto del procesamiento OCR, la coincidencia estricta y los infractores reincidentes.
