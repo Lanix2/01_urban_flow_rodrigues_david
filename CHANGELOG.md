@@ -72,3 +72,9 @@ Dia 11:
 - Extracción de texto de las patentes utilizando EasyOCR.
 - Cruce de datos y validación de coincidencia posicional estricta (mayor al 80%) contra el dataset histórico.
 - Guardado del dataset procesado final speeding_fines_image.csv.
+
+Dia 12:
+
+- Cálculo de cantidad de multas con y sin imágenes asociadas agrupadas por exceso de velocidad.
+- Cálculo de la cantidad de imágenes sin match en el dataset.
+- Cálculo de multas pendientes de pago (IMPAGA) y su relación con la evidencia visual.
