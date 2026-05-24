@@ -60,3 +60,9 @@ Dia 9:
 - Cálculo de resolución y área promedio para separar imágenes en grupos 'plates' y 'completes'.
 - Generación y guardado del diccionario de metadatos en group_images.json.
 - Creación de función reutilizable para visualización de imágenes aleatorias en formato grilla.
+
+Dia 10:
+
+- Conversión a escala de grises de las imágenes originales.
+- Aplicación de suavizado (Gaussian Blur) sobre las imágenes en escala de grises.
+- Detección de bordes (filtro Canny) sobre las imágenes suavizadas.
