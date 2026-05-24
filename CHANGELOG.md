@@ -49,3 +49,8 @@ Dia 7:
 - Creación de archivo `Readme.md` principal con los objetivos
 - Creación de archivo `Data/Readme.md` con la conclusión
 - Redacción de conclusión final sobre los datos del dataset
+
+Dia 8:
+
+- Descarga del archivo zip con el dataset de imágenes vehiculares.
+- Extracción de las imágenes en el directorio data/raw/imgs.
