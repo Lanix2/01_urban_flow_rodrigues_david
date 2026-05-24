@@ -54,3 +54,8 @@ Dia 8:
 
 - Descarga del archivo zip con el dataset de imágenes vehiculares.
 - Extracción de las imágenes en el directorio data/raw/imgs.
+
+Dia 8:
+
+- Descarga del archivo zip con el dataset de imágenes vehiculares.
+- Extracción de las imágenes en el directorio data/raw/imgs.
