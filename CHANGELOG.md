@@ -94,3 +94,8 @@ Dia 15:
 
 - Inicialización del entorno DVC.
 - Migración de datasets crudos y procesados, carpeta de gráficos e imágenes crudas hacia DVC.
+
+Dia 16:
+
+- Diseño del modelo lógico de dominio utilizando clases orientadas a objetos.
+- Definición de relaciones entre Vehículo, Radar, Evidencia y Multa.
