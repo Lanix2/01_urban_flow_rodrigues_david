@@ -99,3 +99,8 @@ Dia 16:
 
 - Diseño del modelo lógico de dominio utilizando clases orientadas a objetos.
 - Definición de relaciones entre Vehículo, Radar, Evidencia y Multa.
+
+Dia 17:
+
+- Implementación de función procesar_fila_csv.
+- Mapeo de datos crudos del CSV a instancias del modelo lógico de dominio.
