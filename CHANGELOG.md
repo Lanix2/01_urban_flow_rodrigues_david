@@ -119,3 +119,9 @@ Dia 20:
 
 - Implementación de consultas de agregación y ordenamiento utilizando el ORM.
 - Generación de estadísticas de patentes, radares activos e infractores reincidentes.
+
+Dia 21:
+
+- Inicialización de base de datos vectorial ChromaDB.
+- Generación de embeddings visuales de las evidencias mediante red neuronal OpenCLIP ViT-B-32.
+- Poblado de colección vectorial por lotes.
