@@ -109,3 +109,8 @@ Dia 18:
 
 - Diseño del modelo relacional utilizando SQLAlchemy.
 - Implementación de claves primarias, claves foráneas y relaciones entre modelos.
+
+Dia 19:
+
+- Creación de base de datos SQLite transito.db.
+- Migración de datos del CSV a la base de datos relacional aplicando caché en memoria para prevenir duplicados.
