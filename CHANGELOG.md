@@ -89,3 +89,8 @@ Dia 14:
 - Descarga del archivo zip con el dataset de imágenes vehiculares.
 - Extracción de las imágenes en el directorio data/raw/imgs.
 - Configuraciones generales de Git.
+
+Dia 15:
+
+- Inicialización del entorno DVC.
+- Migración de datasets crudos y procesados, carpeta de gráficos e imágenes crudas hacia DVC.
