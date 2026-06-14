@@ -125,3 +125,8 @@ Dia 21:
 - Inicialización de base de datos vectorial ChromaDB.
 - Generación de embeddings visuales de las evidencias mediante red neuronal OpenCLIP ViT-B-32.
 - Poblado de colección vectorial por lotes.
+
+Dia 22:
+
+- Desarrollo de función de búsqueda visual inversa.
+- Integración de búsqueda de similitud semántica con ChromaDB y cruce de datos con SQLAlchemy.
