@@ -130,3 +130,8 @@ Dia 22:
 
 - Desarrollo de función de búsqueda visual inversa.
 - Integración de búsqueda de similitud semántica con ChromaDB y cruce de datos con SQLAlchemy.
+
+Dia 23:
+
+- Redacción de conclusión del Sprint 3.
+- Actualización final de documentación técnica en data/Readme.md.

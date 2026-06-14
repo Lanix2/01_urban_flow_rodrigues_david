@@ -31,3 +31,21 @@ multas sin su imagen correspondiente.
 - **Precisión del Algoritmo:** Usar un método estricto para comparar letra por 
 letra evita falsos positivos en el sistema, pero obliga a procesar muy bien las 
 fotos antes con filtros para que la IA no se maree con las sombras o el ruido visual del entorno.
+
+# Sprint 3
+El sistema ha crecido en volumen de datos y complejidad, por lo que ya no es 
+viable trabajar únicamente con archivos CSV. En esta etapa se profesionaliza la 
+solución incorporando persistencia avanzada y control de versiones.
+
+- **Contexto y Objetivo:** El objetivo principal de este sprint es aplicar los 
+conocimientos en programación orientada a objetos y bases de datos para migrar la 
+información procesada a un entorno estructurado. Además, se incorpora DVC (Data Version Control) 
+para manejar los datos binarios pesados fuera de Git.
+- **Arquitectura Relacional (ORM):** Mediante SQLAlchemy, se diseñó un modelo de 
+dominio que asegura la integridad referencial entre Vehículos, Radares y Multas. 
+Esto previene la duplicación de entidades y permite realizar consultas estadísticas 
+complejas y deterministas de forma eficiente.
+- **Inteligencia Artificial y Bases Vectoriales:** Se incorporó ChromaDB en conjunto 
+con el modelo neuronal OpenCLIP para procesar las evidencias fotográficas. Esto nos 
+permitió trascender la simple lectura de texto, habilitando la extracción de características 
+físicas y la búsqueda inversa por similitud semántica visual.
