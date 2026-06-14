@@ -104,3 +104,8 @@ Dia 17:
 
 - Implementación de función procesar_fila_csv.
 - Mapeo de datos crudos del CSV a instancias del modelo lógico de dominio.
+
+Dia 18:
+
+- Diseño del modelo relacional utilizando SQLAlchemy.
+- Implementación de claves primarias, claves foráneas y relaciones entre modelos.
