@@ -114,3 +114,8 @@ Dia 19:
 
 - Creación de base de datos SQLite transito.db.
 - Migración de datos del CSV a la base de datos relacional aplicando caché en memoria para prevenir duplicados.
+
+Dia 20:
+
+- Implementación de consultas de agregación y ordenamiento utilizando el ORM.
+- Generación de estadísticas de patentes, radares activos e infractores reincidentes.
