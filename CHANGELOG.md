@@ -83,3 +83,9 @@ Dia 13:
 
 - Actualización del archivo Readme.md con el objetivo y contexto del Sprint 2.
 - Redacción de conclusión final sobre el impacto del procesamiento OCR, la coincidencia estricta y los infractores reincidentes.
+
+Dia 14:
+
+- Descarga del archivo zip con el dataset de imágenes vehiculares.
+- Extracción de las imágenes en el directorio data/raw/imgs.
+- Configuraciones generales de Git.
